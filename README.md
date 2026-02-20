@@ -17,8 +17,8 @@ Página web que muestra un listado de articulos relacionados con tecnología, pr
 
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: []
+Repositorio en GitHub: [https://github.com/VictoriaM05/Ejercicio2_Simple-Article-Listing.git]  
+Deploy: [https://victoriam05.github.io/Ejercicio2_Simple-Article-Listing/]
 ---
 
 ## 📝 Reflexión
