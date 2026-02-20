@@ -1,0 +1,25 @@
+# Ejercicio 1 : Newsletter
+
+---
+
+- Nombre: Victoria Martínez Gutiérrez
+- Número de Control: 23151216
+
+---
+
+## 📌 Descripción
+Página web que muestra un listado de articulos relacionados con tecnología, presentando el contenido de forma clara, organizada y visualmente atractiva, utilizando HTML y CSS. La interfaz incluye un título principal, un separador visual y una lista de artículos. Cada artículo contiene una imagen representativa, un título descriptivo y la fecha de publicación.
+
+
+## 🚀 Tecnologías utilizadas
+- HTML  
+- CSS  
+
+
+## 🔗 Enlace al proyecto
+Repositorio en GitHub: [Pega aquí tu enlace]  
+Deploy: []
+---
+
+## 📝 Reflexión
+Aprendí a estructurar una página web utilizando HTML y a diseñarla visualmente con CSS. Fue la primera vez que desarrollé una interfaz responsiva, entendiendo cómo adaptar el contenido a diferentes tamaños de pantalla. Fue algo complicado pero al final se pudo resolver jugando con los valores e investigando como hacerlo correctamente. 
